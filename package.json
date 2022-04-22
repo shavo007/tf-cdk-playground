@@ -20,6 +20,7 @@
     "node": ">=14.0"
   },
   "dependencies": {
+    "@cdktf/provider-aws": "^7.0.27",
     "@cdktf/provider-docker": "^0.7.24",
     "cdktf": "^0.10.2",
     "constructs": "^10.0.122"
